@@ -31,7 +31,7 @@ Invoke the skill and describe the everyday situation or skill you want to work
 on:
 
 ```text
-Use $dbt-skills-guided-self-help to guide me through a skills session.
+Use $dbt-skills-guided-self-help to guide me through a session.
 ```
 
 ## License

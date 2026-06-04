@@ -1,4 +1,4 @@
 interface:
   display_name: "DBT Skills Guided Self-Help"
   short_description: "Practice one bounded DBT-style skill safely"
-  default_prompt: "Use $dbt-skills-guided-self-help to guide me through a skills session."
+  default_prompt: "Use $dbt-skills-guided-self-help to guide me through a session."

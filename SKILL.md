@@ -124,7 +124,7 @@ rather than pressing on with skills practice.
 Ask:
 
 - What specific recent or current situation should we focus on?
-- What would make this short skills session useful?
+- What would make this short session useful?
 
 Turn the answer into one observable session goal and confirm it with the human.
 
