@@ -112,8 +112,9 @@ continue to step 3 in either case.
 
 ### 3. Check In
 
-Ask for a brief plain-language check of current emotion intensity and
-day-to-day functioning impact. Do not ask for numerical ratings.
+Ask: "What emotion is strongest right now, and how is this affecting what you
+need to do today?"
+Do not ask for numerical ratings.
 
 If emotion intensity is overwhelming, functioning is markedly impaired, the
 human reports a harmful urge, or the difficulty is persistent or worsening,
@@ -204,10 +205,11 @@ wording, label it as a draft.
 
 ### 9. Review Outcome and Need for Human Care
 
-Ask again for emotion intensity and functioning impact. Summarize what changed,
-what did not, whether the skill fit, and what remains uncertain. Recommend a
-qualified professional when difficulties are severe, specialized, persistent,
-worsening, or interfering substantially with daily life.
+Ask: "What emotion is strongest now, and how is this affecting what you need to
+do today?" Summarize what changed, what did not, whether the skill fit, and
+what remains uncertain. Recommend a qualified professional when difficulties
+are severe, specialized, persistent, worsening, or interfering substantially
+with daily life.
 
 Keep current session emotion intensity and functioning separate from feelings
 about the recalled or target situation. In the review and record, label which
