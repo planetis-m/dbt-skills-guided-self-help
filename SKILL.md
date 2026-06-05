@@ -68,6 +68,10 @@ acceptance and change, the skill practiced, the main takeaway, and any chosen
 practice plan. Keep it focused rather than turning it into a transcript. Do not
 infer or introduce diagnoses.
 
+When recording a both-and statement, chosen skill steps, or main takeaway, use
+the human's own wording as much as possible. If the agent proposes wording,
+label it as a draft and ask the human to revise or approve it before saving.
+
 ## Workflow
 
 ### 1. Establish Scope and Consent
@@ -204,6 +208,11 @@ Ask again for emotion intensity and functioning impact. Summarize what changed,
 what did not, whether the skill fit, and what remains uncertain. Recommend a
 qualified professional when difficulties are severe, specialized, persistent,
 worsening, or interfering substantially with daily life.
+
+Keep current session emotion intensity and functioning ratings separate from
+ratings about the recalled or target situation. In the review and record, label
+which rating changed. Do not describe an in-situation emotion shift as a change
+in current emotion intensity.
 
 ### 10. Save the Record
 
