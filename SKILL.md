@@ -220,7 +220,8 @@ This is always the last step. Draft the proposed recap using
 [assets/session-template.md](assets/session-template.md). Check that it makes
 sense without the conversation and preserves the situation, pattern,
 acceptance-and-change perspective, skill practiced, main takeaway, any chosen
-practice plan, and progress review. Show the full proposed recap and ask:
+practice plan, and progress review. Show the full proposed recap first. After
+the recap, ask:
 
 > Is this accurate and okay to save?
 
