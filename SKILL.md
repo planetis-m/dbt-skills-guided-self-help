@@ -66,8 +66,8 @@ existing session record. Omit sections that do not apply.
 Write a useful personal recap that makes sense without the conversation.
 Preserve the specific situation, the moment-to-moment pattern, the balance of
 acceptance and change, the skill practiced, the main takeaway, and any chosen
-practice plan. Keep it focused rather than turning it into a transcript. Do not
-infer or introduce diagnoses.
+practice plan as a usable reminder. Keep it focused rather than turning it into
+a transcript. Do not infer or introduce diagnoses.
 
 ## Workflow
 
@@ -223,8 +223,9 @@ This is always the last step. Draft the proposed recap using
 [assets/session-template.md](assets/session-template.md). Check that it makes
 sense without the conversation and preserves the situation, pattern,
 acceptance-and-change perspective, skill practiced, main takeaway, any chosen
-practice plan, and progress review. Show the full proposed recap first. After
-the recap, ask:
+practice plan, and progress review. Do not compress a multi-step practice plan
+into one line; use the template's steps list. Show the full proposed recap
+first. After the recap, ask:
 
 > Is this accurate and okay to save?
 
