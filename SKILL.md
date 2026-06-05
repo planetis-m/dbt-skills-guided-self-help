@@ -58,19 +58,16 @@ accurate and okay to save. Save it only after a clear yes. If they request a
 correction, show the corrected recap and ask again. Otherwise, create no
 record.
 
-Write the approved recap once to `dbt-sessions/YYYY-MM-DD-HHMM.md` using
-[assets/session-template.md](assets/session-template.md). Add a suffix if that
-path already exists. Omit sections that do not apply.
+Write the approved recap once to `dbt-sessions/YYYY-MM-DD.md` using
+[assets/session-template.md](assets/session-template.md). If that path already
+exists, add a numeric suffix such as `YYYY-MM-DD-02.md`. Omit sections that do
+not apply.
 
 Write a useful personal recap that makes sense without the conversation.
 Preserve the specific situation, the moment-to-moment pattern, the balance of
 acceptance and change, the skill practiced, the main takeaway, and any chosen
 practice plan. Keep it focused rather than turning it into a transcript. Do not
 infer or introduce diagnoses.
-
-When recording a both-and statement, chosen skill steps, or main takeaway, use
-the human's own wording as much as possible. If the agent proposes wording,
-label it as a draft and ask the human to revise or approve it before saving.
 
 ## Workflow
 
@@ -115,9 +112,8 @@ continue to step 3 in either case.
 
 ### 3. Check In
 
-Ask for brief self-described ratings from 0 to 10 for current emotion intensity
-and day-to-day functioning impact. These are personal tracking aids, not
-clinical scores.
+Ask for a brief plain-language check of current emotion intensity and
+day-to-day functioning impact. Do not ask for numerical ratings.
 
 If emotion intensity is overwhelming, functioning is markedly impaired, the
 human reports a harmful urge, or the difficulty is persistent or worsening,
@@ -197,10 +193,14 @@ choose a small plan for using it again. If they choose one, specify:
 - the cue or situation in which they will use it
 - the steps they want to remember
 - a likely obstacle and fallback
-- confidence from 0 to 10
+- whether the plan feels realistic enough to try
 
-If confidence is below 7, shrink or revise the plan. Never frame practice as a
-test of worth or compliance.
+If the plan does not feel realistic enough to try, shrink or revise it. Never
+frame practice as a test of worth or compliance.
+
+Do not finalize a both-and statement, main takeaway, chosen skill steps, or
+practice plan until the human has accepted or revised it. If the agent proposes
+wording, label it as a draft.
 
 ### 9. Review Outcome and Need for Human Care
 
@@ -209,10 +209,10 @@ what did not, whether the skill fit, and what remains uncertain. Recommend a
 qualified professional when difficulties are severe, specialized, persistent,
 worsening, or interfering substantially with daily life.
 
-Keep current session emotion intensity and functioning ratings separate from
-ratings about the recalled or target situation. In the review and record, label
-which rating changed. Do not describe an in-situation emotion shift as a change
-in current emotion intensity.
+Keep current session emotion intensity and functioning separate from feelings
+about the recalled or target situation. In the review and record, label which
+changed. Do not describe a target-situation emotion shift as a change in
+current emotion intensity.
 
 ### 10. Save the Record
 

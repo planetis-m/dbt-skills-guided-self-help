@@ -32,9 +32,11 @@
 - Steps:
 - Likely obstacle:
 - Fallback:
-- Confidence:
+- Does this feel realistic enough to try?:
 
 ## Check-Out
 
-- Emotion intensity and functioning impact, start to end:
+- Current session emotion intensity:
+- Current functioning impact:
+- Target-situation emotion shift:
 - Human-support recommendation:
