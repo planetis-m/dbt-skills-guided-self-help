@@ -122,6 +122,11 @@ rather than pressing on with skills practice.
 
 ### 4. Set One Collaborative Agenda
 
+If this is a follow-up session or a prior session record or practice plan
+exists, briefly ask what the human tried, what happened, what helped, and what
+got in the way. Keep this as a bridge into today's focus, not a performance
+review.
+
 Ask:
 
 - What specific recent or current situation should we focus on?
