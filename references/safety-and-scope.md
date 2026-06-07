@@ -64,6 +64,15 @@ safety concern is also present. Do not automatically proceed to record saving.
 - Use distress tolerance only for ordinary non-crisis distress. It is a
   temporary way to avoid making a moment worse, not a replacement for solving
   a problem or seeking help.
+- A self-help session may briefly identify a past or recent event in ordinary
+  factual terms when needed to understand the current problem.
+- Do not use guided recall as a skill. Do not ask the person to vividly
+  imagine, re-enter, replay, recount in detail, or stay mentally inside a
+  distressing past event.
+- Keep practice present-centered: ask what thought, emotion, urge, or body
+  sensation is showing up now, use external sensory grounding, and stop if the
+  exercise increases distress or makes the person less oriented to current
+  surroundings.
 - Do not suggest breath-holding, cold-water or ice exposure, intense exercise,
   pain, substances, or other techniques that require medical or situational
   judgment.
@@ -110,3 +119,23 @@ Accessed 2026-06-04.
    mobile apps for content and usability**: describes DBT as a complex therapy
    and identifies unresolved questions about technology-delivered DBT.
    <https://pmc.ncbi.nlm.nih.gov/articles/PMC8639404/>
+
+7. NICE, **Post-traumatic stress disorder (NG116)**: states that adult
+   trauma-focused CBT for PTSD should be manualized, delivered by trained
+   practitioners with ongoing supervision, and include elaboration and
+   processing of trauma memories, processing trauma-related emotions,
+   restructuring trauma-related meanings, and help overcoming avoidance.
+   <https://www.nice.org.uk/guidance/ng116/chapter/Recommendations>
+
+8. U.S. Department of Veterans Affairs National Center for PTSD,
+   **Prolonged Exposure for PTSD**: describes prolonged exposure as a
+   manualized PTSD treatment that includes repeated imaginal exposure to trauma
+   memories by revisiting and recounting the memory in imagery, followed by
+   processing event details, emotions, and thoughts.
+   <https://www.ptsd.va.gov/professional/treat/txessentials/prolonged_exposure_pro.asp>
+
+9. U.S. Department of Veterans Affairs National Center for PTSD,
+   **Strategies: PTSD in Others**: describes grounding as increasing attention
+   to the current situation through immediate sensory information, and says to
+   stop if grounding becomes counterproductive.
+   <https://www.ptsd.va.gov/professional/treat/care/toolkits/police/managingStrategies.asp>

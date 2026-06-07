@@ -182,6 +182,10 @@ Present relevant low-risk skills and continue with what the human chooses:
   matter, replace all-or-nothing framing with a both-and view, and choose one
   effective next step.
 
+When practicing mindfulness, emotion regulation, or grounding around a
+remembered event, keep the exercise present-centered. Ask what is showing up
+now; do not guide the person to re-enter, replay, or recount the event.
+
 Stop any exercise that increases distress or feels unsafe. Do not use
 interpersonal practice for confrontation, coercion, manipulation, unsafe
 disclosure, or a situation with major consequences.
