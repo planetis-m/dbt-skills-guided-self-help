@@ -131,7 +131,7 @@ review.
 Ask:
 
 - What specific recent or current situation should we focus on?
-- What would make this short session useful?
+- What would make this session useful?
 
 Turn the answer into one observable session goal and confirm it with the human.
 
@@ -188,7 +188,7 @@ disclosure, or a situation with major consequences.
 
 ### 8. Practice and Plan
 
-Practice the chosen skills briefly in the conversation. Invite the human to
+Practice the chosen skills in the conversation. Invite the human to
 choose a small plan for using them again. If they choose one, specify:
 
 - the cue or situation in which they will use it
