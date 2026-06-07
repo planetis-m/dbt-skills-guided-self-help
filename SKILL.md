@@ -97,8 +97,10 @@ Ask plainly whether the human is:
 - dealing with an urge to do something dangerous or unable to keep themselves
   safe or meet basic needs
 - experiencing severe confusion, mania, or difficulty telling what is real
-- seeking help for trauma processing, compulsions, an eating disorder,
-  substance withdrawal, or another issue needing specialized care
+- seeking help for trauma processing, compulsions/OCD treatment, body
+  dysmorphic disorder treatment, an eating disorder, substance withdrawal,
+  suicide or self-harm safety planning, or another issue needing specialized
+  care
 
 This is a routing check, not a clinical risk assessment.
 
