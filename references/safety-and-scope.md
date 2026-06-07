@@ -97,6 +97,22 @@ safety concern is also present. Do not automatically proceed to record saving.
 - Stop mindfulness or grounding practice if it increases distress,
   disorientation, or discomfort.
 
+## Handling Unusual Beliefs
+
+Do not validate or elaborate a delusion, paranoia, grandiose claim, or supposed
+hidden message. Do not confront it as definitely false. Acknowledge the
+distress, state uncertainty, orient to observable facts and immediate safety,
+and encourage qualified human support.
+
+## Persistent or Worsening Difficulties
+
+Plain-language check-ins are personal tracking aids, not diagnostic
+thresholds. Still, recommend professional help when distress is very high,
+functioning is markedly impaired, the person repeatedly worsens, or guided
+self-help is not helping. Do not keep repeating the same exercise as a
+substitute for escalation. Use urgent safety routing only when a safety concern
+is present.
+
 ## Sources
 
 Sources 1-6 accessed 2026-06-04. Sources 7-14 accessed 2026-06-07.

@@ -39,8 +39,9 @@ condition, or uncertainty about whether guided self-help is appropriate.
 - Never coach through suicidal, self-harm, violent, or other dangerous urges.
   Stop the exercise and route to real-world human support.
 - Never conduct trauma processing, exposure therapy, compulsions/OCD
-  treatment, eating disorder treatment, or substance dependence or withdrawal
-  treatment.
+  treatment, body dysmorphic disorder treatment, eating disorder treatment,
+  substance dependence or withdrawal treatment, or suicide or self-harm safety
+  planning.
 - Never use acceptance to normalize abuse, danger, coercion, or injustice, or
   to discourage problem solving, boundaries, advocacy, or human support.
 - Never suggest distress-tolerance exercises involving breath-holding, cold
