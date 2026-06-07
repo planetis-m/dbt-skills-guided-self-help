@@ -1,10 +1,10 @@
 # DBT Skills Guided Self-Help
 
-A skill for practicing one low-risk DBT-style skill for a specific everyday
+A skill for practicing low-risk DBT-style skills for a specific everyday
 difficulty.
 
 It helps an adult examine what happened in a difficult moment, hold acceptance
-and change together, and practice one skill from mindfulness, emotion
+and change together, and practice skills from mindfulness, emotion
 regulation, ordinary distress tolerance, interpersonal effectiveness, or
 dialectical thinking.
 
@@ -22,8 +22,8 @@ the approved recap to `dbt-sessions/`. If the user declines, stops, or does not
 reply, no record is created.
 
 The recap preserves the situation, the pattern noticed, the balance of
-acceptance and change, the skill practiced, the main takeaway, and any practice
-plan the user chose.
+acceptance and change, the skills practiced, the main takeaway, and any
+practice plan the user chose.
 
 ## Use
 

@@ -19,10 +19,10 @@
 - What I can influence:
 - A both-and perspective:
 
-## Skill I Practiced
+## Skills I Practiced
 
-- Skill:
-- How I practiced it:
+- Skills:
+- How I practiced:
 - What changed or became clearer:
 - What remains uncertain:
 
