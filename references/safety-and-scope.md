@@ -115,7 +115,7 @@ is present.
 
 ## Sources
 
-Sources 1-6 accessed 2026-06-04. Sources 7-14 accessed 2026-06-07.
+Accessed 2026-06-07.
 
 1. NICE, **Borderline personality disorder: recognition and management
    (CG78)**: recommends comprehensive DBT for a specific recurrent self-harm
