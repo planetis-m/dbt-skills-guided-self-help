@@ -36,7 +36,8 @@ The skill adapts low-risk, repeatable elements:
 - basic emotion labeling, fact checking, and urge awareness
 - ordinary non-crisis distress tolerance
 - rehearsal of safe requests, refusals, or boundaries
-- one small human-chosen practice plan and a progress review
+- one small human-chosen practice plan
+- progress review
 
 It does not adapt comprehensive DBT treatment, clinical target hierarchy,
 formal chain analysis, crisis coaching, risk management, contingency
