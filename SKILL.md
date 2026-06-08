@@ -64,6 +64,10 @@ current local date and 24-hour time, plus
 [assets/session-template.md](assets/session-template.md). Never overwrite an
 existing session record. Omit sections that do not apply.
 
+Work one angle at a time. If the human wants to pursue multiple angles, finish
+the current angle and offer its recap before starting the next. Save each
+completed angle as its own approved recap.
+
 Write a useful personal recap that makes sense without the conversation.
 Preserve the specific situation, the moment-to-moment pattern, the balance of
 acceptance and change, the skills practiced, the main takeaway, and any
