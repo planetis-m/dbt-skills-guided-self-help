@@ -87,9 +87,9 @@ safety concern is also present. Do not automatically proceed to record saving.
 - When suicide or self-harm risk is present, stop the exercise and route to
   real-world support, existing care plans, trusted people, emergency services,
   or qualified professionals.
-- Do not suggest breath-holding, cold-water or ice exposure, intense exercise,
-  pain, substances, or other techniques that require medical or situational
-  judgment.
+- Do not suggest distress-tolerance exercises involving breath-holding, pain,
+  substances, medical advice, overdoing physical steps, or other techniques
+  that require medical judgment.
 - Do not use acceptance language to minimize abuse, danger, coercion,
   discrimination, or injustice.
 - Do not use interpersonal effectiveness to prepare confrontation,
@@ -201,3 +201,10 @@ Accessed 2026-06-07.
     injury irrespective of apparent purpose and defines safety plans as written,
     prioritized coping and support plans for crises.
     <https://www.nice.org.uk/guidance/ng225/chapter/terms-used-in-this-guideline>
+
+15. DialecticalBehaviorTherapy.com, **TIPP**: describes TIPP as temperature,
+    intense exercise, paced breathing, and progressive muscle relaxation. It
+    gives ordinary examples such as splashing the face with cold water, fast
+    walking, jumping jacks, dancing, paced breathing, and progressive muscle
+    relaxation, and cautions against overdoing the physical steps.
+    <https://dialecticalbehaviortherapy.com/distress-tolerance/tipp/>
