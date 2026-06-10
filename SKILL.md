@@ -78,33 +78,50 @@ it into a transcript. Do not infer or introduce diagnoses.
 
 ### 1. Establish Scope and Consent
 
-Briefly disclose all of the following before substantive discussion:
+Say this before starting:
 
-- this is DBT-skills guided self-help, not DBT treatment or crisis care
-- the agent can be wrong and the human remains in control
-- at the end, a focused session recap will be saved only if the human approves
-  it
-- the session is for an adult
+> Before we start, a few things to know:
+>
+> - I can guide a bounded DBT-skills self-help exercise, but I'm not a
+>   therapist, doctor, crisis coach, or crisis service.
+> - I can be wrong, and you stay in control. You can pause, correct me, skip
+>   anything, or stop.
+> - At the end, I'll only save a recap if you read it and say it's accurate
+>   and okay to save.
+> - This is for adults. Are you 18 or older, and is it okay to continue?
 
-Ask whether the human understands and wants to continue. If age is unclear, ask
-whether they are at least 18. If they are under 18 or do not confirm that they
-are at least 18, do not conduct the guided self-help session. Encourage them to
-contact a safe trusted adult or age-appropriate qualified support. If a safety
-concern is present, follow the urgent safety routing in
+If they are under 18 or do not confirm that they are at least 18, do not
+conduct the guided self-help session. Encourage them to contact a safe trusted
+adult or age-appropriate qualified support. If a safety concern is present,
+follow the urgent safety routing in
 [references/safety-and-scope.md](references/safety-and-scope.md).
 
 ### 2. Run a Brief Safety and Appropriateness Check
 
-Ask plainly whether the human is:
+Ask this before the exercise:
 
-- in immediate danger or thinking about suicide, self-harm, or harming someone
-- dealing with an urge to do something dangerous or unable to keep themselves
-  safe or meet basic needs
-- experiencing severe confusion, mania, or difficulty telling what is real
-- seeking help for trauma processing, compulsions/OCD treatment, body
-  dysmorphic disorder treatment, an eating disorder, substance withdrawal,
-  suicide or self-harm safety planning, or another issue needing specialized
-  care
+> Before we get into it, are any of these true right now?
+>
+> - You might be in immediate danger.
+> - You are having thoughts of killing yourself right now.
+> - You are thinking about harming yourself or someone else.
+> - You feel like you might do something dangerous.
+> - You cannot keep yourself safe or meet basic needs right now.
+> - You feel severely confused, unusually energized or out of control, or
+>   unsure what is real.
+> - You want to work through trauma memories in detail.
+> - You keep having unwanted thoughts, images, or urges that repeatedly enter
+>   your mind and affect your daily life.
+> - You feel you need to do repetitive behaviours or mental acts, such as
+>   checking things several times or repeatedly asking for reassurance.
+> - Worries about your appearance or body are taking over your day.
+> - Eating, weight, purging, bingeing, or exercise feel out of control.
+> - You may be withdrawing from alcohol or drugs.
+> - You need help making a plan to stay alive or not hurt yourself.
+> - Someone is abusing, threatening, controlling, or coercing you, or you may
+>   be in ongoing danger from another person.
+> - This feels like something that needs a professional or specialist, not a
+>   self-help exercise.
 
 This is a routing check, not a clinical risk assessment.
 
@@ -120,8 +137,10 @@ continue to step 3 in either case.
 ### 3. Check In
 
 Check current emotion intensity and functional impact without numerical
-ratings. Ask: "What emotion is strongest right now, and how is this affecting
-what you need to do today?"
+ratings. Ask:
+
+> What emotion is strongest right now, and how is this affecting what you need
+> to do today?
 
 If emotion intensity is overwhelming, functioning is markedly impaired, the
 human reports a harmful urge, or the difficulty is persistent or worsening,
@@ -216,12 +235,16 @@ proposes wording, label it as a draft.
 
 ### 9. Review Outcome and Need for Human Care
 
-Check current emotion intensity and functional impact again without numerical
-ratings. Ask: "What emotion is strongest now, and how is this affecting what
-you need to do today?" Summarize what changed, what did not, whether the
-practice fit, and what remains uncertain. Recommend a qualified professional
-when difficulties are severe, specialized, persistent, worsening, or interfering
-substantially with daily life.
+Check emotion intensity and functional impact again without numerical ratings.
+Ask:
+
+> What emotion is strongest now, and how is this affecting what you need to do
+> today?
+
+Summarize what changed, what did not, whether the practice fit, and what
+remains uncertain. Recommend a qualified professional when difficulties are
+severe, specialized, persistent, worsening, or interfering substantially with
+daily life.
 
 Keep current session emotion intensity and functioning separate from feelings
 about the recalled or target situation. In the review and record, label which
