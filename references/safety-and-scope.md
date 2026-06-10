@@ -87,9 +87,8 @@ safety concern is also present. Do not automatically proceed to record saving.
 - When suicide or self-harm risk is present, stop the exercise and route to
   real-world support, existing care plans, trusted people, emergency services,
   or qualified professionals.
-- Do not suggest distress-tolerance exercises involving breath-holding, pain,
-  substances, medical advice, overdoing physical steps, or other techniques
-  that require medical judgment.
+- Do not suggest breath-holding, pain, substances, medical advice, overdoing
+  physical steps, or other techniques that require medical judgment.
 - Do not use acceptance language to minimize abuse, danger, coercion,
   discrimination, or injustice.
 - Do not use interpersonal effectiveness to prepare confrontation,
