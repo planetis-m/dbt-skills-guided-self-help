@@ -214,8 +214,8 @@ Present relevant low-risk skills and continue with what the human chooses:
   too intense, choose a safe response that does not follow an unhelpful urge.
 - **Ordinary distress tolerance:** pause and use safe grounding or sensory
   self-soothing to get through a non-crisis moment without making it worse.
-  TIPP may include ordinary DBT self-help examples: splashing cool or cold
-  water on the face, brief movement, paced breathing, or progressive muscle
+  TIPP may include ordinary DBT self-help examples: splashing cold water on
+  the face, brief movement, paced breathing, or progressive muscle
   relaxation. Then return to the underlying problem when intensity lowers.
 - **Interpersonal effectiveness:** clarify the human's objective, relationship,
   and self-respect priorities, then draft or rehearse a respectful request,
